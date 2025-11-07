@@ -18,7 +18,7 @@ import Signature from './Signature.jsx';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/rinashahprofile">
     <div className="App">
           </div>
           <Routes>

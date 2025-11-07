@@ -42,7 +42,7 @@ function Spiritual(){
 }}>
             {services.map((service, index) => (
               <Link to={service.link} style={{textDecoration: "none"}}> 
-                <button style={{color: "black", margin: "0", padding: "10px", fontSize: "clamp(24px, 2vw, 60px)", borderRadius: "8px", lineHeight: "1", boxShadow: "0 0 20px rgba(255, 215, 0, 0.4)", background: "#E5EB83", Opacity: "0.6"}} key={index}
+                <button style={{color: "black", margin: "0", padding: "10px", fontSize: "clamp(24px, 1.5vw, 60px)", borderRadius: "8px", lineHeight: "1", boxShadow: "0 0 20px rgba(255, 215, 0, 0.4)", background: "#E5EB83", Opacity: "0.6"}} key={index}
                 onMouseOver={e => {e.currentTarget.style.boxShadow = "0 0 20px rgba(255,215,0,0.7)"; e.currentTarget.style.transform = 'scale(1.25)';}}
   onMouseOut={e => {e.currentTarget.style.boxShadow = "0 0 12px rgba(255,215,0,0.3)"; e.currentTarget.style.transform = 'scale(1.0)'}}
                 >
