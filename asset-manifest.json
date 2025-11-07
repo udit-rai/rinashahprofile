@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rinashahprofile/static/css/main.b53bf7cc.css",
-    "main.js": "/rinashahprofile/static/js/main.e73ea8e2.js",
+    "main.js": "/rinashahprofile/static/js/main.c5954b53.js",
     "static/js/453.a556bc72.chunk.js": "/rinashahprofile/static/js/453.a556bc72.chunk.js",
     "static/media/contact.jpg": "/rinashahprofile/static/media/contact.27d4eb7d556e838abeba.jpg",
     "static/media/Tarot.jpeg": "/rinashahprofile/static/media/Tarot.91d2c68b646799a3f1ec.jpeg",
@@ -18,11 +18,11 @@
     "static/media/about.png": "/rinashahprofile/static/media/about.a81e5f986029702fe097.png",
     "index.html": "/rinashahprofile/index.html",
     "main.b53bf7cc.css.map": "/rinashahprofile/static/css/main.b53bf7cc.css.map",
-    "main.e73ea8e2.js.map": "/rinashahprofile/static/js/main.e73ea8e2.js.map",
+    "main.c5954b53.js.map": "/rinashahprofile/static/js/main.c5954b53.js.map",
     "453.a556bc72.chunk.js.map": "/rinashahprofile/static/js/453.a556bc72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b53bf7cc.css",
-    "static/js/main.e73ea8e2.js"
+    "static/js/main.c5954b53.js"
   ]
 }
