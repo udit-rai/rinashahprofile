@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rinashahprofile/static/css/main.b53bf7cc.css",
+    "main.js": "/rinashahprofile/static/js/main.e73ea8e2.js",
+    "static/js/453.a556bc72.chunk.js": "/rinashahprofile/static/js/453.a556bc72.chunk.js",
+    "static/media/contact.jpg": "/rinashahprofile/static/media/contact.27d4eb7d556e838abeba.jpg",
+    "static/media/Tarot.jpeg": "/rinashahprofile/static/media/Tarot.91d2c68b646799a3f1ec.jpeg",
+    "static/media/crystals.jpeg": "/rinashahprofile/static/media/crystals.16c387dd9f47e79c51e0.jpeg",
+    "static/media/spirituality.jpeg": "/rinashahprofile/static/media/spirituality.79fe4ebc85e1eff044f9.jpeg",
+    "static/media/yantra.jpeg": "/rinashahprofile/static/media/yantra.faf3edf08f428313d70e.jpeg",
+    "static/media/corporate.jpg": "/rinashahprofile/static/media/corporate.600e6de1e6032c0fa114.jpg",
+    "static/media/numerology.jpeg": "/rinashahprofile/static/media/numerology.be17c89b614f2587dd88.jpeg",
+    "static/media/reiki.jpg": "/rinashahprofile/static/media/reiki.2c02792806025e3eb8b4.jpg",
+    "static/media/bg_2_1.jpg": "/rinashahprofile/static/media/bg_2_1.05ddaf58ec6fefd93865.jpg",
+    "static/media/vastu.jpg": "/rinashahprofile/static/media/vastu.69b55c16195f4bf288e7.jpg",
+    "static/media/motivational.jpg": "/rinashahprofile/static/media/motivational.41f69ad008c9bab8ea9f.jpg",
+    "static/media/signature.jpg": "/rinashahprofile/static/media/signature.8cab13d123465ebd5309.jpg",
+    "static/media/about.png": "/rinashahprofile/static/media/about.a81e5f986029702fe097.png",
+    "index.html": "/rinashahprofile/index.html",
+    "main.b53bf7cc.css.map": "/rinashahprofile/static/css/main.b53bf7cc.css.map",
+    "main.e73ea8e2.js.map": "/rinashahprofile/static/js/main.e73ea8e2.js.map",
+    "453.a556bc72.chunk.js.map": "/rinashahprofile/static/js/453.a556bc72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53bf7cc.css",
+    "static/js/main.e73ea8e2.js"
+  ]
+}
